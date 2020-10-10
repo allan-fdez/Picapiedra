@@ -1,0 +1,6 @@
+#EXTM3U
+#EXTINF:0 1x00 RocaMagnun
+https://turtle.jawcloud.co/hls/baxpajbnmztrdl2gmjwoot5jlbx2lpkfxat3guf5qjtubfg42odi2mqykcgq/index-v1-a1.m3u8
+
+#EXTINF:0 1x01 El gran Pedrini
+https://tiger.jawcloud.co/hls/baxpbahnmftrdl2gmju6ohhycufrwpvg7st4gndrouhbnddwxo4bw7lsifqa/index-v1-a1.m3u8
